@@ -2,6 +2,8 @@
 
 # To run the React App : mtm-frontend-shreya_verma
 
+download the zip file and then go to cmd locate the folder mtm-frontend-shreya_verma and then execute the following steps:
+
 ### `npm install`
 
 ### `npm start`

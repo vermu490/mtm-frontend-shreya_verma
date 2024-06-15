@@ -1,12 +1,19 @@
 # PROJECT DIRECT LINK : https://mtm-frontend-shreya-verma.vercel.app/
 
+# To run the React App : mtm-frontend-shreya_verma
+
+### `npm install`
+
+### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you should run:
+### `npm install`
 
 ### `npm start`
 
